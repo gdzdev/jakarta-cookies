@@ -1,6 +1,8 @@
 # Jakarta-cookies
 
-Este es un proyecto sencillo que tiene como objetivo demostrar el uso de cookies en una aplicación web Java utilizando Jakarta EE y Servlets en un servidor Apache Tomcat 7.
+## Proyecto de Login con Jakarta EE y Servlets
+
+Este es un proyecto sencillo que tiene como objetivo demostrar el uso de cookies en una aplicación web Java utilizando Jakarta EE y Servlets.No se está utilizando una base de datos en esta implementación.
 
 ## Herramientas
 
