@@ -7,5 +7,5 @@ Este es un proyecto sencillo que tiene como objetivo demostrar el uso de cookies
 ## Herramientas
 
 - JDK 21 
-- Apache Tomcat 7 (o versión compatible) configurado localmente
+- Apache Tomcat 7 configurado localmente
 - IntelliJ IDEA con soporte para proyectos Maven
