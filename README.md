@@ -1,4 +1,4 @@
-# Jakarta-cookies
+# Jakarta-cookies.
 
 ## Proyecto de Login con Jakarta EE y Servlets
 
