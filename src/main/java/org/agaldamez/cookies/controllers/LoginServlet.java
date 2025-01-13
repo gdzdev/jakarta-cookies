@@ -18,7 +18,7 @@ import java.util.Optional;
 public class LoginServlet extends HttpServlet {
 
     final static String USERNAME = "admin";
-    final static String PASSWORD = "12345";
+    final static String PASSWORD = "securepassword123";
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
